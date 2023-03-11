@@ -1,0 +1,3 @@
+genanki
+requests
+beautifulsoup4
